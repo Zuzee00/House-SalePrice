@@ -1,7 +1,7 @@
 # House-SalePrice
 Predicting House sale-price given various features about it
 
-### this is what I am doing in this project:
+### This is the Project flow:
 
 - Understanding the problem. Considering each variable and performing an analysis get an idea about its importance for this problem.
 - Univariable study. focusing on the dependent variable ('SalePrice').
